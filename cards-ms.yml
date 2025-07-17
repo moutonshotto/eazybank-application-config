@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank Cards Microservice API Channel - Dev Environment"
+  message: "Welcome to EazyBank Cards Microservice API Channel - Local Dev Environment"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
