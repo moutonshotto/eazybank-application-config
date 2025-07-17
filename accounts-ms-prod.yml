@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank Accounts Microservice API Support Channel - Prod Environment"
   contactDetails:
-    name: "Ruma Aishwarya - Product Owner"
+    name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
   onCallSupport:
     - (453) 392-4829
