@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank Cards Microservice API Channel - Dev Environment"
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: "dragos@eazybank.com"
+  onCallSupport:
+    - (243) 458-4698
+    - (565) 472-6899
