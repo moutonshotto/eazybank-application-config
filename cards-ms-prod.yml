@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank Cards Microservice API Channel - Prod Environment"
+  message: "Welcome to EazyBank Cards Microservice Support API Channel - Prod Environment"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
